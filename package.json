@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npx ts-node src/index.ts",
     "mochila": "npx ts-node src/Mochila.ts",
-    "caixeiro": "npx ts-node src/CaixeiroViajante.ts"
+    "caixeiro": "npx ts-node src/CaixeiroViajante.ts",
+    "facility": "npx ts-node src/Facilities.ts"
   },
   "keywords": [],
   "author": "",
