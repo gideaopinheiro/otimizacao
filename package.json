@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node src/index.ts",
-    "mochila": "npx ts-node src/Mochila.ts",
-    "caixeiro": "npx ts-node src/CaixeiroViajante.ts",
-    "facility": "npx ts-node src/Facilities.ts",
-    "bp": "npx ts-node src/BinPacking.ts"
+    "mochila": "npx ts-node src/questao2/Mochila.ts",
+    "caixeiro": "npx ts-node src/questao2/CaixeiroViajante.ts",
+    "facility": "npx ts-node src/questao2/Facilities.ts",
+    "bp": "npx ts-node src/questao1/BinPacking.ts"
   },
   "keywords": [],
   "author": "",
