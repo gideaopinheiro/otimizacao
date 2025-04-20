@@ -4,10 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "mochila": "ts-node src/questao2/Mochila.ts",
-    "caixeiro": "ts-node src/questao2/CaixeiroViajante.ts",
-    "facility": "ts-node src/questao2/Facilities.ts",
-    "bp": "ts-node src/questao1/BinPacking.ts"
+    "mochila": "ts-node src/questao2/ProblemaDaMochila.ts",
+    "caixeiro": "ts-node src/questao2/ProblemaDoCaixeiroViajante.ts",
+    "facility": "ts-node src/questao2/ProblemaDasFacilities.ts",
+    "bp": "ts-node src/questao1/BinPacking.ts",
+    "racao": "ts-node src/questao2/ProblemaDaRacao.ts",
+    "fluxo": "ts-node src/questao2/ProblemaDoFluxo.ts",
+    "plantio": "ts-node src/questao2/ProblemaDoPlantio.ts",
+    "horarios": "ts-node src/questao2/ProblemaEscalonamentoHorarios.ts",
+    "padroes": "ts-node src/questao2/ProblemaPadroes.ts",
+    "clique": "ts-node src/questao2/ProblemaCliqueMaxima.ts",
+    "tintas": "ts-node src/questao2/ProblemaDasTintas.ts"
   },
   "keywords": [],
   "author": "",
