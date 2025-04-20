@@ -14,6 +14,13 @@ npm run mochila
 npm run caixeiro
 npm run facilities
 npm run bp [int]
+npm run tintas
+npm run clique
+npm run fluxo
+npm run plantio
+npm run padroes
+npm run racao
+npm run horarios
 ```
 
 No último comando substitua **[int]** por um número inteiro que representa a quantidade limite de segundos para o problema BinPacking

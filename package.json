@@ -6,7 +6,7 @@
   "scripts": {
     "mochila": "ts-node src/questao2/ProblemaDaMochila.ts",
     "caixeiro": "ts-node src/questao2/ProblemaDoCaixeiroViajante.ts",
-    "facility": "ts-node src/questao2/ProblemaDasFacilities.ts",
+    "facilities": "ts-node src/questao2/ProblemaDasFacilities.ts",
     "bp": "ts-node src/questao1/BinPacking.ts",
     "racao": "ts-node src/questao2/ProblemaDaRacao.ts",
     "fluxo": "ts-node src/questao2/ProblemaDoFluxo.ts",
